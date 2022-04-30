@@ -13,5 +13,5 @@ Based on the output of the dice roll using Math.random we can declare:
 
 Please find the picture of results below;
 <img width="1512" alt="Screenshot 2022-05-01 at 1 01 22 AM" src="https://user-images.githubusercontent.com/90515961/166120476-0c74e32f-de5b-4293-8f2a-a5b9212c64c4.png">
-<img width="1512" alt="Screenshot 2022-05-01 at 1 01 22 AM" src="https://user-images.githubusercontent.com/90515961/166120478-b70313ea-896e-4658-98df-043794274aad.png">
-<img width="1512" alt="Screenshot 2022-05-01 at 1 01 02 AM" src="https://user-images.githubusercontent.com/90515961/166120481-8edd0256-04fe-4257-8eec-1d76f8bce2ac.png">
+<img width="1512" alt="Screenshot 2022-05-01 at 1 01 46 AM" src="https://user-images.githubusercontent.com/90515961/166120512-969cab76-8f93-4453-a034-73ca45a73580.png">
+<img width="1512" alt="Screenshot 2022-05-01 at 1 01 02 AM" src="https://user-images.githubusercontent.com/90515961/166120515-0509aefa-07dc-4000-aca5-5e4b883dbcd2.png">
